@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👨‍💻 Emanuel Lopes
+**`Estudante de Python`**
 
-<!--
-**Dev-Emanuellopes/Dev-Emanuellopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Emanuel Lopes Citrangulo, tenho 15 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando o 9º ano do Ensino Fundamental no Colégio dos Santos Anjos (Unidade de Além Paraíba). Sou um entusiasta em tecnologia e demonstro meu conhecimento através do Github. Mostro um pouco mais da minha vida no Instagram "[_pvddocici](https://www.instagram.com/_pvddocici)", onde além de iniciante em programação, também sei solucionar alguns cubos mágicos e pratico artes marciais desde meus 5 anos. 
 
-Here are some ideas to get you started:
+### 🤖 Linguagens e Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img 
+    align="left"
+    alt="Python"
+    title="Python"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
+    />
+
+<br/>
+<br/>
+
+### 🤖 Estátisticas
+
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Dev-Emanuellopes)](https://github-stats-extended.vercel.app/api?username=octocat&theme=radical)
