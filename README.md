@@ -20,4 +20,4 @@ Me chamo Emanuel Lopes Citrangulo, tenho 15 anos e sou natural do Rio de Janeiro
 
 ### 🤖 Estátisticas
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Dev-Emanuellopes)](https://github-stats-extended.vercel.app/api?username=octocat&theme=radical)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Dev-Emanuellopes)](https://github-stats-extended.vercel.app/api?username=Dev-Emanuellopes&theme=radical)
