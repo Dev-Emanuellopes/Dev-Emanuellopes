@@ -39,4 +39,13 @@ Me chamo Emanuel Lopes Citrangulo, tenho 15 anos e sou natural do Rio de Janeiro
   </tr>
 </table>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Emanuellopes/Dev-Emanuellopes/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Emanuellopes/Dev-Emanuellopes/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dev-Emanuellopes/Dev-Emanuellopes/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br><br>
+
+
 
