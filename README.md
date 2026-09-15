@@ -18,7 +18,7 @@ Me chamo Emanuel Lopes Citrangulo, tenho 15 anos e sou natural do Rio de Janeiro
 <br/>
 <br/>
 
-### 🤖 Estátisticas
+### 🤖 Github Stats
 
 <table>
   <tr>
