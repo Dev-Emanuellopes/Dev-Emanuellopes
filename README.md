@@ -10,7 +10,7 @@ Me chamo Emanuel Lopes Citrangulo, tenho 15 anos e sou natural do Rio de Janeiro
     align="left"
     alt="Python"
     title="Python"
-    width="50px"
+    width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
     />
@@ -20,4 +20,23 @@ Me chamo Emanuel Lopes Citrangulo, tenho 15 anos e sou natural do Rio de Janeiro
 
 ### 🤖 Estátisticas
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=Dev-Emanuellopes)](https://github-stats-extended.vercel.app/api?username=Dev-Emanuellopes&theme=radical)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-Emanuellopes&theme=jolly" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev-Emanuellopes&theme=jolly" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dev-Emanuellopes&theme=jolly" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dev-Emanuellopes&theme=jolly&utcOffset=0" />
+    </td>
+  </tr>
+</table>
+
+
