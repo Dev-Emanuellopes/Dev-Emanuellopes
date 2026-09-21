@@ -33,8 +33,6 @@ Me chamo Emanuel Lopes Citrangulo, tenho 15 anos e sou natural do Rio de Janeiro
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dev-Emanuellopes&theme=jolly" />
     </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Dev-Emanuellopes&theme=jolly&utcOffset=0" />
     </td>
   </tr>
 </table>
@@ -46,6 +44,5 @@ Me chamo Emanuel Lopes Citrangulo, tenho 15 anos e sou natural do Rio de Janeiro
 </picture>
 
 <br><br>
-
 
 
