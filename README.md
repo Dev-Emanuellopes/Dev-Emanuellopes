@@ -3,8 +3,8 @@
 
 Me chamo Emanuel Lopes Citrangulo, tenho 15 anos e sou natural do Rio de Janeiro. Atualmente, estou cursando o 9º ano do Ensino Fundamental no Colégio dos Santos Anjos (Unidade de Além Paraíba). Sou um entusiasta em tecnologia e demonstro meu conhecimento através do Github. Mostro um pouco mais da minha vida no Instagram "[_pvddocici](https://www.instagram.com/_pvddocici)", onde além de iniciante em programação, também sei solucionar alguns cubos mágicos e pratico artes marciais desde meus 5 anos. Recentemente, concluí meu primeiro passo como Desenvolvedor: o Mundo 1 de Python do Professor Gustavo Guanabara!
 
-### 🤖 Linguagens e Tecnologias
 
+### 🤖 Linguagens e Tecnologias
 
 <img 
     align="left"
@@ -13,7 +13,25 @@ Me chamo Emanuel Lopes Citrangulo, tenho 15 anos e sou natural do Rio de Janeiro
     width="50px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
-    />
+/>
+
+<img 
+    align="left"
+    alt="Git"
+    title="Git"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+
+<img 
+    align="left"
+    alt="GitHub"
+    title="GitHub"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
 
 <br/>
 <br/>
@@ -44,5 +62,3 @@ Me chamo Emanuel Lopes Citrangulo, tenho 15 anos e sou natural do Rio de Janeiro
 </picture>
 
 <br><br>
-
-
