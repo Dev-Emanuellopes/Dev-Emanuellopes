@@ -29,7 +29,7 @@ Me chamo Emanuel Lopes Citrangulo, tenho 15 anos e sou natural do Rio de Janeiro
     alt="GitHub"
     title="GitHub"
     width="50px"
-    style="padding-right: 10px;"
+    style="padding-right: 10px; filter: invert(1);"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
 
