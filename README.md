@@ -41,24 +41,15 @@ Me chamo Emanuel Lopes Citrangulo, tenho 15 anos e sou natural do Rio de Janeiro
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dev-Emanuellopes&theme=jolly" />
+      <img src="./profile-summary-card-output/jolly/0-profile-details.svg" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dev-Emanuellopes&theme=jolly" />
+      <img src="./profile-summary-card-output/jolly/1-repos-per-language.svg" />
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dev-Emanuellopes&theme=jolly" />
-    </td>
+    <td colspan="2">
+      <img src="./profile-summary-card-output/jolly/2-stats.svg" />
     </td>
   </tr>
 </table>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dev-Emanuellopes/Dev-Emanuellopes/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dev-Emanuellopes/Dev-Emanuellopes/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Dev-Emanuellopes/Dev-Emanuellopes/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br><br>
