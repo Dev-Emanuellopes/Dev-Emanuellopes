@@ -48,8 +48,16 @@ Me chamo Emanuel Lopes Citrangulo, tenho 15 anos e sou natural do Rio de Janeiro
     </td>
   </tr>
   <tr>
+    <td>
+      <img src="./profile-summary-card-output/jolly/2-most-commit-language.svg" />
+    </td>
+    <td>
+      <img src="./profile-summary-card-output/jolly/3-stats.svg" />
+    </td>
+  </tr>
+  <tr>
     <td colspan="2">
-      <img src="./profile-summary-card-output/jolly/2-stats.svg" />
+      <img src="./profile-summary-card-output/jolly/4-productive-time.svg" />
     </td>
   </tr>
 </table>
